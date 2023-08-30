@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+	font-size: 58px;
+	width: 100%;
+	background-color: rgb(0, 255, 0)
+}
+
+h3 {
+	text-align: center;
+	padding-bottom: 150px;
+}
+body {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	color: rgb(0, 255, 0);
+	text-align: center;
+	width: 250px;
+	height: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 32px
+}
+
+.clothing {
+	background-image: url(clothing.jfif);
+	background-position: center;
+	background-size: cover;
+}
+
+.footwear {
+	background-image: url(footwear.jfif);
+	background-position: center;
+	background-size: cover;
+}
+
+.equipment {
+	background-image: url(equipment.jfif);
+	background-position: center;
+	background-size: cover;
+}
